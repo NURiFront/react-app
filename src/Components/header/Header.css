@@ -1,0 +1,21 @@
+.headerContainer .paddcontainer {
+  padding-block: 40px;
+  padding-inline: 45px;
+}
+
+.headerContainer .paddcontainer .content ul{
+  display: flex;
+  justify-content: space-around;
+  margin: 15px;
+}
+
+.headerContainer .paddcontainer .content ul img {
+  width: 45px;
+  height: 45px;
+}
+
+.headerContainer .paddcontainer .content ul p {
+  color: #fff;
+  font-size: 25px;
+  font-weight: 600;
+}

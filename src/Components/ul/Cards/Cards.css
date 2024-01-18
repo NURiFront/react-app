@@ -1,0 +1,33 @@
+.allImgs {
+  width: 200px;
+  height: 300px;
+  border-radius: 40px;
+
+}
+
+.cardsAll {
+  width: 220px;
+  height: 450px;
+  background-color: #a367dbb7;
+  border-radius: 40px;
+  box-shadow: 10px 10px 20px 10px #bc2bbc;
+}
+
+.some {
+  margin-top: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  /* margin-left: 50px; */
+  gap: 100px;
+  
+}
+
+.texts {
+  width: 200px;
+  height: 50px;
+}
+
+.janer{
+  font-size: 20px;
+}
